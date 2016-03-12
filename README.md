@@ -1,4 +1,5 @@
 # checkin
 Check in exercise
 
-## Work in progress
+## Git Sprint
+
